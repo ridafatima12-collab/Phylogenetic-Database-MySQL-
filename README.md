@@ -50,8 +50,9 @@ Student-conceived group project for DBMS course at NUST (BS Bioinformatics) — 
 ---
 
 ## Files
+```
 phylogenetic_db.sql
-
 README.md
+```
 
 
